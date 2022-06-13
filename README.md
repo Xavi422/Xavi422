@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xavi422
 - 👀 I’m interested in anything data related.
-- 🌱 I’m currently learning data analysis while working towards a Computer Science Degree.
+- 🌱 I’m currently learning data analytics while working towards a Computer Science and Statistics degree.
 - 💞️ I’m looking to collaborate on any beginner data projects.
 - 📫 How to reach me: xifill@uoguelph.ca
 
